@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shifa Saeed</h1>
 <h3 align="center">Sculpting digital delights</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GenAI**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **shifa22154074@akgec.ac.in**
 
