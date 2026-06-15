@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **shifa22154074@akgec.ac.in**
+- 📫 How to reach me **shifasaeed1107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
